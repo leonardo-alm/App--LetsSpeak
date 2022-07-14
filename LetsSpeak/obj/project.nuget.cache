@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u8exce7Ca2NpFikk0ZayTg85L5gODSjdlyiF95Oc9auZLPnENbcrDV/ZiCWQs7mIaIP13vBQdxO5jwRDQ5z6KQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programação\\LetsCode\\WebFullStack\\Modulo3\\Aula8\\LetsSpeak\\LetsSpeak\\LetsSpeak.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\sharprompt\\2.4.3\\sharprompt.2.4.3.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
